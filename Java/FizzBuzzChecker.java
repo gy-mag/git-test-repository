@@ -1,5 +1,5 @@
 public class FizzBuzzChecker {
     public boolean isFizzBuzz(int number) {
-        return number % 15 == 0;
+        return number % 28 == 0;
     }
 }
